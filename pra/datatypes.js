@@ -1,0 +1,1 @@
+// alert(3+3) in browser it is possible but not in nodejs
